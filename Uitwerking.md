@@ -49,6 +49,8 @@ De uitwerking van deze component is onder andere gebaseerd op:
 
 -   Voor geo-gegevens: [OGC API - Features - Part 4: Simple Transactions](http://docs.opengeospatial.org/DRAFTS/20-002.html)  
    
+   Lennart: leuk idee, goed idee ook (ik had 'm ook en al in gang gezet om ander redenen), maar is door OGC zelf beoordeeld als dat dit niet aansluit bij wat een basisregistratie nodig heeft. Zie: opengeospatial/ogcapi-features#430 (comment)   
+   
 -   Voor administratieve gegevens: [API-strategie](https://docs.geostandaarden.nl/api/API-Strategie/)
 
 Bovenstaande twee uitwerkingen bieden geen volledige basis voor de uitwerking
